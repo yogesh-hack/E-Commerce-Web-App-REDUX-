@@ -45,18 +45,19 @@ to bind the react with redux
 - `npm install react-redux`
 
 #### reducers 
-- type of function , which it will makw state mutate(mutable)
+- type of function , which it will make state mutate(mutable)
 - Synchronously calling always
 - Do not call fetch functions in reducers.
 
 [-] `useDispathprops` 
+
 [-] `useSelector` use to get the data from redux states.
 
 
 ### When we used fetch with REDUX
  - when our data/components is shown in multiple pages, there we use Fetch with the help of REDUX.
  
- ## REDUCX CODE 
+ ## REDUX CODE 
  
  📁 cartslice.js
  
