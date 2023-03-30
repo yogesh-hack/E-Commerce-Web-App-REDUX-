@@ -2,6 +2,12 @@
 
 #### we have to learn how to use redux in react with simple project
 
+### Project preview
+#### Home page
+![homepage](https://user-images.githubusercontent.com/83384315/228852781-835718af-2443-4181-9b0b-b5a00f50d95c.png)
+#### cart page
+![cartpage](https://user-images.githubusercontent.com/83384315/228852769-899e0608-e097-4dcd-9ff2-c6e98567f5de.png)
+
 Redux is a popular JavaScript library for managing the state of a web application. It provides a centralized store that holds the application's state and allows for predictable state management through a set of rules and principles.
 
 Redux is important for real-world applications for several reasons:
