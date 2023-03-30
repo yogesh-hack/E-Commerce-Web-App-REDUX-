@@ -60,6 +60,15 @@ to bind the react with redux
 
 ### When we used fetch with REDUX
  - when our data/components is shown in multiple pages, there we use Fetch with the help of REDUX.
+
+## How redux work internally?
+
+**normally redux state management work as folow :**
+![ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26](https://user-images.githubusercontent.com/83384315/228857616-88d8953a-f3ee-48ef-ba4d-edc530aefa45.gif)
+
+**When we used middleware(Thunk) for using API call, then work as follow :**
+
+![async redux working](https://redux.js.org/assets/images/ReduxAsyncDataFlowDiagram-d97ff38a0f4da0f327163170ccc13e80.gif)
  
  ## REDUX CODE 
  
