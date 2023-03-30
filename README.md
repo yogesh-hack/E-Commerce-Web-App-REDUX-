@@ -2,6 +2,9 @@
 
 #### we have to learn how to use redux in react with simple project
 
+**Visit for Demo**
+![demo](https://e-commerce-web-app-redux.vercel.app/)
+
 ### Project preview
 #### Home page
 ![homepage](https://user-images.githubusercontent.com/83384315/228852781-835718af-2443-4181-9b0b-b5a00f50d95c.png)
